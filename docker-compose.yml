@@ -1,0 +1,10 @@
+
+services:
+  sui-dashboard:
+    build: .
+    container_name: s-ui-dashboard
+    restart: unless-stopped
+    ports:
+      - "2097:2097"
+    environment:
+      - TZ=Asia/Shanghai
