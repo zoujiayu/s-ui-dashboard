@@ -1,6 +1,6 @@
 # S-UI Dashboard
 
-A lightweight web dashboard for **S-UI / Xray Panel**, providing real-time traffic statistics, user usage overview, and system runtime information.
+A lightweight web dashboard for **[S-UI](https://github.com/alireza0/s-ui)**, providing real-time traffic statistics, user usage overview, and system runtime information.
 
 ---
 
@@ -17,12 +17,12 @@ A lightweight web dashboard for **S-UI / Xray Panel**, providing real-time traff
 ---
 
 ## Screenshots
-[Screenshots-01](https://raw.githubusercontent.com/zoujiayu/s-ui-dashboard/master/screenshot/01.png)
+![Screenshots-01](https://raw.githubusercontent.com/zoujiayu/s-ui-dashboard/master/screenshot/01.png)
 
 ## Requirements
 
 - Go **1.20+**
-- Running **S-UI / Xray Panel** with API enabled
+- Running **S-UI** with API enabled
 - Valid API Token
 
 ---
