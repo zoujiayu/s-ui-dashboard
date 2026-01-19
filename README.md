@@ -17,7 +17,7 @@ A lightweight web dashboard for **S-UI / Xray Panel**, providing real-time traff
 ---
 
 ## Screenshots
-[Screenshots-01](screenshot/01.png)
+[Screenshots-01](https://raw.githubusercontent.com/zoujiayu/s-ui-dashboard/master/screenshot/01.png)
 
 ## Requirements
 
