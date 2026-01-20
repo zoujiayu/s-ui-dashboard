@@ -18,6 +18,7 @@ A lightweight web dashboard for **[S-UI](https://github.com/alireza0/s-ui)**, pr
 
 ## Screenshots
 ![Screenshots-01](https://raw.githubusercontent.com/zoujiayu/s-ui-dashboard/master/screenshot/01.png)
+![Screenshots-01](https://raw.githubusercontent.com/zoujiayu/s-ui-dashboard/master/screenshot/02.png)
 
 ## Requirements
 
